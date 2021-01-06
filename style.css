@@ -1,16 +1,17 @@
 body{
     height: auto;
+    
 }
 
 h1{
-    font-size: 41px;
-    font-family: 'Staatliches', cursive;
+    font-size: 41px; 
 }
-} 
+
 .colorme{
     color:  rgba(255, 0, 0, 0.644);
     font-family: 'Staatliches', cursive;
 }
+
 .i-am-link{
 text-decoration: none;
 background-color: rgba(255, 0, 0, 0.644);
@@ -19,15 +20,17 @@ border-radius: 10px;
 color: white;
 font-weight: 700;
 }
+
 .mini-length{
     width: 40%;
     float: left;
-    margin-right: 6%;
-    
+    margin-right: 6%;   
 }
+
 .mini-length img{
     width: 100%;
 }
+
 .latest{
     align-items: center;
     padding: 2% 4% 2% 4%;
@@ -38,12 +41,13 @@ font-weight: 700;
     height: 100%;
     float:left;
     box-shadow: 10px 10px 40px whitesmoke;
-
 }
+
 .heading{
     font-size: 10px;
     padding-left: 2px;
 }
+
 .pera{
     font-size: 5px;
     padding-left: 2px;
@@ -53,13 +57,12 @@ font-weight: 700;
     width: 100%;
 }
     
-
 #three{
     width: 50%;
     height: 100%;
     text-align: center;
-
 }
+
 .last-change{
     text-align: center;
     border: 3px solid blueviolet;
@@ -67,37 +70,29 @@ font-weight: 700;
     background-repeat: no-repeat;
     overflow: auto;
     margin-left: 13px;
-
 }
+
 footer{
     left: 0;
     bottom: 0;
     width: 100%;
     text-align: center;
 }
+
 .icons{
     width: 4%;
     height: 100%;
     text-align: center;
-
 }
+
 .icons img{
 width: 100%;
 float: left;
 padding-left: 2px;
 }
+
 .foot{
     width: 25%;
     height: 100%;
     float:left;
-
 }
-
-
-
-
-
-
-    /* 
-
-  
