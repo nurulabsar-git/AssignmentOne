@@ -1,0 +1,73 @@
+body{
+    height: auto;
+}
+
+h1{
+    font-size: 41px;
+}
+.colorme{
+    color:  rgba(255, 0, 0, 0.644);
+}
+.i-am-link{
+text-decoration: none;
+background-color: rgba(255, 0, 0, 0.644);
+padding: 10px 20px;
+border-radius: 10px;
+color: white;
+font-weight: 700;
+}
+.mini-length{
+    width: 40%;
+    float: left;
+    margin-right: 6%;
+    
+}
+.mini-length img{
+    width: 100%;
+}
+.latest{
+    align-items: center;
+    padding: 2% 4% 2% 4%;
+}
+
+.three-divs{
+    width: 25%;
+    height: 100%;
+    float:left;
+    box-shadow: 10px 10px 40px whitesmoke;
+
+}
+.heading{
+    font-size: 10px;
+    padding-left: 2px;
+}
+.pera{
+    font-size: 5px;
+    padding-left: 2px;
+}
+
+.three-divs img{
+    width: 100%;
+}
+    
+
+#three{
+    width: 50%;
+    height: 100%;
+    align-items: center;
+}
+.lat-chat{
+    width: 40%;
+}
+#lasst{
+    width: 50%;
+    height: 100%;
+    
+}
+.abc{
+    width: 40%;
+    float: left;
+    margin: 2%;
+}
+    /* background-image: url(images/bac11.png);
+    background-repeat: no-repeat;
