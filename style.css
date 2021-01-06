@@ -54,20 +54,24 @@ font-weight: 700;
 #three{
     width: 50%;
     height: 100%;
-    align-items: center;
+    text-align: center;
+
 }
-.lat-chat{
-    width: 40%;
-}
-#lasst{
-    width: 50%;
-    height: 100%;
-    
-}
-.abc{
-    width: 40%;
-    float: left;
-    margin: 2%;
-}
-    /* background-image: url(images/bac11.png);
+.last-change{
+    text-align: center;
+    border: 3px solid blueviolet;
+    background-image: url(images/bac11.png);
     background-repeat: no-repeat;
+    overflow: auto;
+
+}
+
+
+
+
+
+
+
+    /* 
+
+  
