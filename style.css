@@ -4,9 +4,12 @@ body{
 
 h1{
     font-size: 41px;
+    font-family: 'Staatliches', cursive;
 }
+} 
 .colorme{
     color:  rgba(255, 0, 0, 0.644);
+    font-family: 'Staatliches', cursive;
 }
 .i-am-link{
 text-decoration: none;
@@ -63,9 +66,32 @@ font-weight: 700;
     background-image: url(images/bac11.png);
     background-repeat: no-repeat;
     overflow: auto;
+    margin-left: 13px;
 
 }
+footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+.icons{
+    width: 4%;
+    height: 100%;
+    text-align: center;
 
+}
+.icons img{
+width: 100%;
+float: left;
+padding-left: 2px;
+}
+.foot{
+    width: 25%;
+    height: 100%;
+    float:left;
+
+}
 
 
 
